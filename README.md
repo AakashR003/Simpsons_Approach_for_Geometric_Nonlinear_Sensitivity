@@ -13,5 +13,5 @@ a structural analysis tool. For the full implementation code,
 
 ## Repository Contents
 
-- `Report.pdf` — Full study project report
-- `Presentation.pptx` — Project presentation slides  
+- `Report` 
+- `Presentation`  
